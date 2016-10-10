@@ -1,0 +1,49 @@
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="PremierSport.com" resolutions="1x" timestamp="1476137215343">
+  <folder name="css">
+    <file name="site_global.css" crc="398871859"/>
+    <file name="teams.css" crc="4203910707" ref="teams"/>
+    <file name="matches.css" crc="123959572" ref="matches"/>
+    <file name="index.css" crc="3989823012" ref="index"/>
+    <file name="matchups.css" crc="394809459" ref="matchups"/>
+    <file name="match-a.css" crc="3837031480" ref="match-a"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index:teams:matches:matchups:match-a"/>
+    <file name="museutils.js" crc="3851988764" ref="index:teams:matches:matchups:match-a"/>
+    <file name="whatinput.js" crc="86476730" ref="index:teams:matches:matchups:match-a"/>
+    <file name="museconfig.js" crc="169177150" ref="index:teams:matches:matchups:match-a"/>
+    <file name="jquery.musemenu.js" crc="4150485998" ref="index:teams:matches:matchups:match-a"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="271560940" ref="index:teams:matches:matchups:match-a"/>
+    <file name="webpro.js" crc="4067903014" ref="index:matches:match-a"/>
+    <file name="musewpslideshow.js" crc="4265225696" ref="index:matches:match-a"/>
+    <file name="jquery.museoverlay.js" crc="4075157096" ref="index:matches:match-a"/>
+    <file name="touchswipe.js" crc="474750357" ref="index:matches:match-a"/>
+    <file name="musewpdisclosure.js" crc="338211507" ref="index:match-a"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="index:teams:matches:matchups:match-a"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:teams:matches:matchups:match-a"/>
+    <file name="require.js" crc="4108833657" ref="index:teams:matches:matchups:match-a"/>
+  </folder>
+  <folder name="images">
+    <file name="facebook.png" crc="317936629" ref="index:teams:matches:matchups:match-a"/>
+    <file name="twitter.png" crc="4102706121" ref="index:teams:matches:matchups:match-a"/>
+    <file name="rss.png" crc="3858264630" ref="index:teams:matches:matchups:match-a"/>
+    <file name="photo-1434648957308-5e6a859697e8.jpg" crc="116170425" ref="matches"/>
+    <file name="photo-1451256656121-9ffc0c898a49.jpg" crc="3787423164" ref="index"/>
+    <file name="photo-1439736637365-748f240b24fb.jpg" crc="4213549823" ref="index:match-a"/>
+    <file name="placeholder.jpg" crc="3770165081" ref="index:teams:matchups:match-a"/>
+    <file name="icon.png" crc="397855693" seo="true" ref="index:match-a"/>
+    <file name="ar.png" crc="3873402047" seo="true" ref="index"/>
+    <file name="road.jpg" crc="4196313430" seo="true" ref="index:match-a"/>
+    <file name="cactus-crop-u1205.jpg" crc="4267823104" ref="index"/>
+    <file name="cactus-crop-u1213.jpg" crc="4267823104" ref="index"/>
+    <file name="photo-arsvssc.jpg" crc="386561173" ref="index:match-a"/>
+    <file name="arsenalvswansea.jpg" crc="3851707312" ref="matchups"/>
+    <file name="cactus-crop-u2725.jpg" crc="4267823104" ref="match-a"/>
+    <file name="cactus-crop-u2718.jpg" crc="4267823104" ref="match-a"/>
+  </folder>
+  <file name="index.html" crc="4101603055" seo="true" mt="1476137208344" redirect="true"/>
+  <file name="teams.html" crc="114256314" seo="true" mt="1476129798557" redirect="true"/>
+  <file name="matches.html" crc="4195303744" seo="true" mt="1476137094437" redirect="true"/>
+  <file name="matchups.html" crc="3791520218" seo="true" mt="1476137207269" redirect="true"/>
+  <file name="match-a.html" crc="4261599118" seo="true" mt="1476137208339" redirect="true"/>
+</manifest>
